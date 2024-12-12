@@ -100,6 +100,7 @@ authors:
 - GitHub community discussion forum
 - Introduction to source control and workflows (based on Carpentries)
 - "Social Coding" with Github (early days, based on CodeRefinery)
+- Advice and proposals for using GitHub at UKCEH
 :::
 ::::
 
