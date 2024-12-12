@@ -26,29 +26,29 @@ authors:
 ## Who we are
 
 ::::{.columns}
-:::{.column width=33%}
+:::{.column width=30%}
 
-(assets/alba.jpeg)
-(assets/mattb.jpeg)
-
-:::
-
-:::{.column width=33%}
-
-(assets/mattc.jpeg)
-(assets/robin.jpeg)
+![](assets/alba.jpeg)
+![](assets/mattb.jpeg)
 
 :::
 
-:::{.column width=33%}
+:::{.column width=30%}
 
-(assets/joe.jpeg)
-(assets/jo.jpeg)
+![](assets/mattc.jpeg){width=55%}
+![](assets/robin.jpeg){width=75%}
+
+:::
+
+:::{.column width=30%}
+
+![](assets/joe.jpeg)
+![](assets/jo.jpeg)
 
 :::
 
 
-::::{.columns}
+::::
 
 ## Some things we've worked on (Part 1) {.smaller}
 
@@ -86,16 +86,22 @@ authors:
 
 ## Community Engagement
 
-- Working groups we're participating in:
- * LLM Working Group
- * Science Computing Group
- * Computer User Engagement Group
- * Science Skills Squad
+::::{.columns}
+:::{.column width=50%}
+#### Working groups
+- LLM Working Group
+- Science Computing Group
+- Computer User Engagement Group
+- Science Skills Squad
+:::
 
-- Material development
- * GitHub community discussion forum
- * Introduction to source control and workflows (based on Carpentries)
- * "Social Coding" with Github (early days, based on CodeRefinery)
+:::{.column width=50%}
+#### Material development
+- GitHub community discussion forum
+- Introduction to source control and workflows (based on Carpentries)
+- "Social Coding" with Github (early days, based on CodeRefinery)
+:::
+::::
 
 ## Group Activities
 
